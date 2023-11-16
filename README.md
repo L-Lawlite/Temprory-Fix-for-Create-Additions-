@@ -2,4 +2,4 @@
 
 ---
 
-Temprory fix for Fluid Burner.
+Temporary fix for Fluid Burner.
